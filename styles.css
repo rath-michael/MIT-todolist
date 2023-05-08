@@ -1,0 +1,23 @@
+  body {
+    background-image: URL('background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .pageTitle {
+    margin-left: 13%;
+    margin-top: 9%;
+  }
+
+  .todo-item {
+    font-size: xx-large;
+    margin-left: 13%;
+    margin-bottom: 1%;
+  }
+
+  .inputClass {
+    border: none;
+    background: #F1F379;
+    font-size: xx-large;
+    margin-left: 13%;
+  }
